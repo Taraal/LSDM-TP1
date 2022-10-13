@@ -1,6 +1,7 @@
 # Large Scale Data Management
 
 ## Gestion des données distribuées à large échelle
+## Ronan BELLEIL et Sylouan CORFA
 
 ## TP 1 
 
